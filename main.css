@@ -1,0 +1,42 @@
+        
+
+        .huh {
+            width: 75px;
+            height: 75px;
+            border-radius: 50%;
+            background-color: blue;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 16px;
+        }
+
+        .hmmm {
+            width: 75px;
+            height: 75px;
+            border-radius: 50%;
+            background-color: red;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 16px;
+        }
+
+        .nah {
+            width: 75px;
+            height: 75px;
+            border-radius: 50%;
+            background-color: yellow;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 16px;
+        }
+/* chỉnh cái này nè, là chèn dô css để chỉnh khung vid á */
+        .avatar video{
+            height: 100px;
+            border-radius: 100px;
+        }
